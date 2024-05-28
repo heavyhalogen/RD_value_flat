@@ -6,3 +6,5 @@ The spectra need to be in a flat file like .csv, .txt, or related formats (like 
 
 The Raman shift should be in cm-1. Currently, it does not work for nm. 
 In the paper from Grützner and Bureau a 514.5 nm laser has been applied.
+
+Version 1.1 allows to save the normalized data in a new .txt file.
